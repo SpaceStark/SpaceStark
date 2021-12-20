@@ -34,5 +34,5 @@ and RazorPay For billing
 
 ## Acknowledgements
 
-* [OCHEANIC](https://ocheanic.com/)
+* [OCHEANIC](https://ocheanic.tech/)
 
